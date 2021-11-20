@@ -1,1 +1,1 @@
-"This is tect file A" 
+"This is tect file A --version 1.2" 
